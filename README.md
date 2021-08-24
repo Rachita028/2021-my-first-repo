@@ -3,4 +3,6 @@
 Hello Git!
 
 This is the challenge part!
+Typo
 
+This is another line!
